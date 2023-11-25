@@ -1,0 +1,19 @@
+.contactBox{
+    height: 700px;
+}
+
+.contactInnerBox{
+    border: 2px solid white;
+    padding: 60px 0px;
+    border-radius: 20px;
+    width: 550px;
+    /* font-size: 10px; */
+}
+
+.contactForm input{
+    border-radius: 15px;
+}
+
+.contactForm textarea{
+    border-radius: 15px;
+}

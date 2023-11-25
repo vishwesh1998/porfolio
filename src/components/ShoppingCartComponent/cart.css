@@ -1,0 +1,17 @@
+.clinicBox{
+    height: 500px;
+}
+
+.clinicInnerBox{
+    padding: 30px 15px 13px 15px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.clinicInnerBox h4{
+    font-size: 22px;
+}
+
+.clinicInnerBox p{
+    font-size: 12px;
+}

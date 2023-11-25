@@ -1,0 +1,18 @@
+/* .cardBox{
+    height: 500px;
+} */
+
+.cardInnerBox{
+    /* margin-top: 160rem; */
+    padding: 40px 35px 30px 35px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.cardInnerBox h4{
+    font-size: 22px;
+}
+
+.cardInnerBox p{
+    font-size: 12px;
+}

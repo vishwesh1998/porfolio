@@ -1,0 +1,14 @@
+.emiInnerBox{
+    /* margin-top: 160rem; */
+    padding: 40px 35px 30px 35px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.emiInnerBox h4{
+    font-size: 22px;
+}
+
+.emiInnerBox p{
+    font-size: 12px;
+}

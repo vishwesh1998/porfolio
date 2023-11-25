@@ -1,0 +1,14 @@
+.calInnerBox{
+    /* margin-top: 160rem; */
+    padding: 40px 35px 30px 35px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.calInnerBox h4{
+    font-size: 22px;
+}
+
+.calInnerBox p{
+    font-size: 12px;
+}

@@ -1,0 +1,36 @@
+.projectBox{
+    height: 1100px;
+}
+
+.imgBox{
+    /* border: 2px solid white; */
+    height: 300px;
+    border-radius: 60px;
+    width: 100rem;
+    margin: 30px 75px 10px 20px;
+    padding: 17px 0px;
+    /* text-decoration: none; */
+}
+
+.imgBox h4{
+    font-size: 15px;
+    color: white;
+    /* text-decoration: none; */
+}
+
+.imgBox p{
+    font-size: 10px;
+    color: white;
+    /* text-decoration: none; */
+}
+
+.imgBox img{
+    margin-top: 25px;
+    /* text-decoration: none; */
+}
+
+.imgBox:hover{
+    background: #000;
+    color: rgb(28, 28, 37);
+}
+

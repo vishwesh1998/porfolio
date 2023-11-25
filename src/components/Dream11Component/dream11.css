@@ -1,0 +1,17 @@
+.dreamBox{
+    height: 500px;
+}
+
+.dreamInnerBox{
+    border: 2px solid white;
+    padding: 30px 15px 13px 15px;
+    border-radius: 20px;
+}
+
+.dreamInnerBox h4{
+    font-size: 22px;
+}
+
+.dreamInnerBox p{
+    font-size: 12px;
+}

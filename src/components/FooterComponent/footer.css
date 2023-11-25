@@ -1,0 +1,21 @@
+/* .copyright{ */
+    /* background: rgb(28, 28, 37); */
+    /* height: 2px; */
+    /* margin-top: 5px; */
+/* } */
+
+.footer-box{
+    margin-bottom: 20px;
+}
+
+.footerLink:hover{
+    color: rgb(206, 187, 187);
+    /* color: rgb(28, 28, 37); */
+    /* color: brown; */
+    /* background: #000; */
+    /* color: yellow; */
+}
+
+.footerLink{
+    color: white;
+}

@@ -1,0 +1,53 @@
+.aboutBox{
+       height: 1300px;
+}
+
+.img{
+    border-radius: 100px;
+    border: 2px solid white;
+    height: 350px;
+    width: 700px;
+    margin-top: 40px;
+}
+
+.sectionTwo hr{
+    height: 0.3px;
+    background-color: white;
+    width: 78vw;
+    margin-left: 11vw;
+}
+
+.infoLine{
+    display: flex;
+    justify-content: space-around;
+}
+
+.infoLine div{
+    height: 75px;
+    width: 1px;
+    background: white;
+    margin-left: 1.4vw;
+    margin-top: 0px;
+    font-size: 11px;
+}
+
+.infoLine div b{
+    margin-right: 80px;
+}
+
+.milestone b{
+    margin-left: 11vw;
+    font-size: 20px;
+}
+
+.tabletr:hover{
+    color: rgb(206, 187, 187);
+}
+
+.tableLink{
+    color: white;
+}
+
+.tableLink:hover{
+    color: rgb(206, 187, 187);
+}
