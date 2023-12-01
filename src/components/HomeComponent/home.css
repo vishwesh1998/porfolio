@@ -17,7 +17,7 @@
     border: 2px solid rgb(206, 187, 187);
 }
 
-@media (max-width:425px)  {
+@media (max-width:468px)  {
     *{
         margin: 0;
         padding: 0;
@@ -29,6 +29,7 @@
 
     .homeBox img{
         width: 100%;
+        height: auto;
     }
     
 }

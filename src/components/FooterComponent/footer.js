@@ -10,10 +10,10 @@ export default function Footer(){
                 <h5><b>Portfolio</b></h5>
                 </div>
                 <br/><br/>
-                <div className="text-center">
+                <div className="text-center input">
                 <b>I'll Get Back To You !</b><br/>
                 <form onSubmit={(event)=>event.preventDefault()}>
-                <input type="text" required placeholder="Please Enter Your Email Id !" className="form-control mt-2 text-center inputBox" style={{width:"20vw", borderRadius:'15px', marginLeft:'5vw'}}/>
+                <input type="text" required placeholder="Please Enter Your Email Id !" className="form-control mt-2 text-center inputBox col-lg-12" style={{width:"20vw", borderRadius:'15px', marginLeft:'5vw'}}/>
                 <button className="btn mt-2">Click Me</button>
                 </form>
                 </div>
@@ -38,7 +38,7 @@ export default function Footer(){
             </div>
         </div>
         <div className="row">
-            <div className="col-12 text-center copyright">
+            <div className="col-lg-12 text-center copyright">
             <p className='mt-3'>Copyright © vishweshportfolio.com | All rights reserved</p>
             </div>
         </div>
