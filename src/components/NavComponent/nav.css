@@ -18,7 +18,11 @@
     }
 
     .navBox{
-        height: 200px;   
+        height: 220px;   
         background-color: rgb(60, 37, 70);
+    }
+
+    .navBox h3{
+        margin-bottom: 30px;
     }
 }

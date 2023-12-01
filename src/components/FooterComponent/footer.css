@@ -10,10 +10,6 @@
 
 .footerLink:hover{
     color: rgb(206, 187, 187);
-    /* color: rgb(28, 28, 37); */
-    /* color: brown; */
-    /* background: #000; */
-    /* color: yellow; */
 }
 
 .footerLink{
@@ -35,8 +31,9 @@
         margin-bottom: 40px;
     }
 
-    .input {
-        position: relative;
+    .input input{
+        /* position: relative; */
+        padding-left: 370px;
     }
 
 

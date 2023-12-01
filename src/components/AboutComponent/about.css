@@ -52,20 +52,21 @@
     color: rgb(206, 187, 187);
 }
 
-@media (max-width:990px) {
+@media (max-width:468px)  {
     *{
         margin: 0;
         padding: 0;
     }
     .aboutBox{
-        margin-top: 150px;
-        height: 900px;
+        margin-top: 180px;
+        height: 920px;
         /* font-size: 5px; */
         /* background: #000; */
     }
 
     .aboutBox img{
-        width: 400px;
+        width: 100%;
+        height: auto;
     }
 
     .sectionTwo{
@@ -77,12 +78,6 @@
     }
 
     .tableBox table{
-        /* margin-right: 200px; */
-        /* justify-content: flex-start; */
-        /* justify-items: left; */
-        /* display: flex; */
-        /* align-items: start; */
-        /* padding-right: 200px; */
         position: absolute;
         right: 190px;
         width: 100%;
