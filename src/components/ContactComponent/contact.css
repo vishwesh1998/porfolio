@@ -17,3 +17,22 @@
 .contactForm textarea{
     border-radius: 15px;
 }
+
+@media (max-width:468px){
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .contactBox{
+        margin-top: 180px;
+        height: 400px;
+        /* height: auto; */
+    }
+
+    .contactInnerBox{
+        /* margin-top: 40px; */
+        width: 100%;
+        height: auto;
+    }
+}

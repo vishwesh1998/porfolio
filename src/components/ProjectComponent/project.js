@@ -34,7 +34,7 @@ export default function Project(){
         <div className='col-12 text-center mt-5'>
         <h1>Project Details</h1>
         </div>
-        <div className='container'>
+        <div className='container projectIcon'>
             <div className='row text-center a'>
              {projectData.map(obj=><div className='col-3 imgBox' onClick={()=>projectComponent(obj)}>
              <Link to={obj.path} style={{textDecoration:'none'}}>

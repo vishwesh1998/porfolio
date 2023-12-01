@@ -34,3 +34,24 @@
     color: rgb(28, 28, 37);
 }
 
+@media (max-width:468px)  {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    .projectBox{
+        margin-top: 180px;
+        height: 1450px;
+    }
+
+    .projectIcon{
+        margin-left: 50px;
+    }
+
+    .imgBox img{
+        width: 100%;
+        height: auto;
+    }
+
+}

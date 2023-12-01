@@ -12,7 +12,8 @@ export default function Contact(){
         </div>
         </div>
         </div>
-        <form onSubmit={(event)=>event.preventDefault()}>
+        <div>
+        <form onSubmit={(event)=>event.preventDefault()} className='formBox'>
         <div className='container mt-1 contactInnerBox'>
             <div className='row'>
              <div className='col-12 text-center contactForm'>
@@ -44,5 +45,6 @@ export default function Contact(){
              </div>
         </div>
         </form>
+        </div>
         </div>
 }
