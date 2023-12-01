@@ -17,7 +17,7 @@
     border: 2px solid rgb(206, 187, 187);
 }
 
-@media (max-width:990px) {
+@media screen and (max-width:735px) and (min-width:0px) {
     *{
         margin: 0;
         padding: 0;
