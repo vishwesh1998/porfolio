@@ -17,19 +17,18 @@
     border: 2px solid rgb(206, 187, 187);
 }
 
-@media screen and (max-width:735px) and (min-width:0px) {
+@media (max-width:425px)  {
     *{
         margin: 0;
         padding: 0;
     }
     .homeBox{
         margin-top: 200px;
-        height: 350px;
-        /* font-size: 5px; */
-        /* background: #000; */
+        height: 600px;
     }
 
     .homeBox img{
-        width: 400px;
+        width: 100%;
     }
+    
 }
