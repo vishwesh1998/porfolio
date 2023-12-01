@@ -2,9 +2,9 @@ import './footer.css'
 import { Link } from 'react-router-dom'
 
 export default function Footer(){
-    return <div className="container-fluid">
+    return <div className="container-fluid footerBox">
         <div className="row d-flex align-items-center footer-box">
-            <div className="col-4">
+            <div className="col-lg-4">
                 <div className="text-center mt-5">
                 <h5><b>Vishwesh's Developer</b></h5>
                 <h5><b>Portfolio</b></h5>
@@ -13,12 +13,12 @@ export default function Footer(){
                 <div className="text-center">
                 <b>I'll Get Back To You !</b><br/>
                 <form onSubmit={(event)=>event.preventDefault()}>
-                <input type="text" required placeholder="Please Enter Your Email Id !" className="form-control mt-2 text-center" style={{width:"20vw", borderRadius:'15px', marginLeft:'5vw'}}/>
+                <input type="text" required placeholder="Please Enter Your Email Id !" className="form-control mt-2 text-center inputBox" style={{width:"20vw", borderRadius:'15px', marginLeft:'5vw'}}/>
                 <button className="btn mt-2">Click Me</button>
                 </form>
                 </div>
             </div>
-            <div className="col-4 text-center mt-5">
+            <div className="col-lg-4 text-center mt-5 quickLink1">
                 <h5 className="ml-4"><b>Quick Link</b></h5>
                 <br/>
                 <span><Link to={'/'} style={{textDecoration:'none'}} className='footerLink'>👉 Home</Link></span>
@@ -29,7 +29,7 @@ export default function Footer(){
                 <br/><br/>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><Link to={'/contactUs'} style={{textDecoration:'none'}} className='footerLink'>👉 Contact Me</Link></span>
             </div>
-            <div className="col-4 text-center mt-1">
+            <div className="col-lg-4 text-center mt-1 quickLink2">
                 <h5><b>Address</b></h5>
                 <br/>
                 <p>📌 Vijay Nagar, Indore, MP 452001</p>

@@ -18,6 +18,9 @@ export default function Cal(){
 
             <h4 className='mt-5'>GitHub Link</h4>
             <p className='mt-1'>https://github.com/vishwesh1998/calculator</p>
+
+            <h4 className='mt-5'>Vercel Hosting</h4>
+            <p className='mt-1'>https://calculator-eosin-nine.vercel.app/</p>
         </div>
     </div>
     </div>

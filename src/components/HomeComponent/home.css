@@ -16,3 +16,20 @@
     color: rgb(206, 187, 187);
     border: 2px solid rgb(206, 187, 187);
 }
+
+@media (max-width:990px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .homeBox{
+        margin-top: 200px;
+        height: 350px;
+        /* font-size: 5px; */
+        /* background: #000; */
+    }
+
+    .homeBox img{
+        width: 400px;
+    }
+}

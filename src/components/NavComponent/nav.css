@@ -10,3 +10,15 @@
     color: rgb(206, 187, 187);
     /* text-decoration: none; */
 }
+
+@media(max-width:990px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    .navBox{
+        height: 200px;   
+    background-color: rgb(60, 37, 70);
+    }
+}

@@ -17,6 +17,8 @@ body{
     background-color: rgb(60, 37, 70);
 }
 
+
+
 .links{
     font-size: 12px;
     /* cursor: pointer; */
@@ -26,5 +28,5 @@ body{
     background-color: rgb(60, 37, 70);
     color: white;
     height: 310px;
-    /* height: 350px; */
+    /* height: auto; */
 }
