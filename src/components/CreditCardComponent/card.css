@@ -16,3 +16,29 @@
 .cardInnerBox p{
     font-size: 12px;
 }
+
+@media (max-width:468px){
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .cardBox{
+        margin-top: 240px;
+        /* height: 100px; */
+        height: auto;
+    }
+}
+
+@media (min-width:469px) and (max-width:768px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .cardBox{
+        margin-top: 240px;
+        /* height: 800px; */
+        height: auto;
+    }
+}

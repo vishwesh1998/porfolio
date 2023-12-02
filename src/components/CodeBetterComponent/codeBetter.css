@@ -6,3 +6,42 @@
     border-radius: 20px;
 }
 
+@media (max-width:468px){
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .codeBetterBox{
+        margin-top: 240px;
+        /* height: 100px; */
+        height: 200px;
+    }
+
+    .codeBetterInnerBox img{
+        width: 200px;
+        position: relative;
+        right: 54px;
+        height: auto;
+    }
+}
+
+@media (min-width:469px) and (max-width:768px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .codeBetterBox{
+        margin-top: 240px;
+        /* height: 100px; */
+        height: auto;
+    }
+
+    .codeBetterInnerBox img{
+        width: 300px;
+        position: relative;
+        right: 30px;
+        height: auto;
+    }
+}
