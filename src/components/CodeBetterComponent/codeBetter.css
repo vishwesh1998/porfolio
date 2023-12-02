@@ -18,10 +18,13 @@
         height: 200px;
     }
 
+    .codeBetterInnerBox{
+        width: 100%;
+        height: auto;
+    }
+
     .codeBetterInnerBox img{
-        width: 200px;
-        position: relative;
-        right: 54px;
+        width: 100%;
         height: auto;
     }
 }

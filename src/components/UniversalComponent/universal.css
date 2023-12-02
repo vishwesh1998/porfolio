@@ -15,7 +15,19 @@
     .uniBox{
         margin-top: 240px;
         /* height: 100px; */
+        height: 200px;
+    }
+
+    .uniInnerBox{
+        width: 100%;
         height: auto;
+    }
+
+    .uniInnerBox img{
+        width: 100%;
+        height: auto;
+        margin-left: 50px;
+        /* box-sizing: content-box; */
     }
 }
 
@@ -27,7 +39,19 @@
 
     .uniBox{
         margin-top: 240px;
-        /* height: 800px; */
+        /* height: 100px; */
         height: auto;
+    }
+
+    .uniInnerBox{
+        width: 100%;
+        height: auto;
+    }
+
+    .uniInnerBox img{
+        width: 100%;
+        height: auto;
+        margin-left: 30px;
+        /* box-sizing: content-box; */
     }
 }
