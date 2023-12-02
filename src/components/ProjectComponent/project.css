@@ -42,11 +42,13 @@
 
     .projectBox{
         margin-top: 180px;
-        height: 1450px;
+        height: auto;
     }
 
     .projectIcon{
-        margin-left: 50px;
+        /* margin-right: 10px; */
+        position: relative;
+        right: 80px;
     }
 
     .imgBox img{
@@ -64,7 +66,7 @@
 
     .projectBox{
         margin-top: 180px;
-        height: 1750px;
+        height: auto;
     }
 
     .projectIcon{
