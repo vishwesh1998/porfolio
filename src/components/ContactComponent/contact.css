@@ -37,7 +37,7 @@
     }
 }
 
-@media (max-width:768px){
+@media (min-width:469px) and (max-width:768px) {
     *{
         margin: 0px;
         padding: 0px;
