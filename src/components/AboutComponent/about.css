@@ -83,3 +83,35 @@
         width: 100%;
     }
 }
+
+@media (max-width:768px)  {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .aboutBox{
+        margin-top: 180px;
+        height: 1400px;
+        /* font-size: 5px; */
+        /* background: #000; */
+    }
+
+    .aboutBox img{
+        width: 100%;
+        height: auto;
+    }
+
+    .sectionTwo{
+        margin-right: 22px;
+    }
+
+    .tableBox b{
+        margin-left: 100px;
+    }
+
+    .tableBox table{
+        position: absolute;
+        right: 140px;
+        width: 100%;
+    }
+}

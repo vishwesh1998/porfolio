@@ -26,3 +26,19 @@
         margin-bottom: 30px;
     }
 }
+
+@media (max-width:768px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    .navBox{
+        height: 220px;   
+        background-color: rgb(60, 37, 70);
+    }
+
+    .navBox h3{
+        margin-bottom: 30px;
+    }
+}

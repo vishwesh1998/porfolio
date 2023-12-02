@@ -36,3 +36,22 @@
         height: auto;
     }
 }
+
+@media (max-width:768px){
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .contactBox{
+        margin-top: 180px;
+        height: 650px;
+        /* height: auto; */
+    }
+
+    .contactInnerBox{
+        /* margin-top: 40px; */
+        width: 100%;
+        height: auto;
+    }
+}

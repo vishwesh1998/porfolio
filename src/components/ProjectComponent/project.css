@@ -55,3 +55,25 @@
     }
 
 }
+
+@media (max-width:768px)  {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    .projectBox{
+        margin-top: 180px;
+        height: 1750px;
+    }
+
+    .projectIcon{
+        margin-left: 130px;
+    }
+
+    .imgBox img{
+        width: 100%;
+        height: auto;
+    }
+
+}
