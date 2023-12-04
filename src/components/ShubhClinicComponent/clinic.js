@@ -11,7 +11,7 @@ export default function Clinic(){
         <div className='row text-center'>
             <div className='col-12'>
                 <h4>Summary</h4>
-                <p className='mt-1'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit aperiam quo consequuntur non in, neque dolorem modi molestiae eum est? Blanditiis, voluptatum eum magnam nisi dolorum doloribus, non suscipit nesciunt iste fugit tempore esse. Sapiente repellat tenetur corporis ipsa incidunt maxime accusamus doloribus sit quae. Quis error earum quisqu.</p>
+                <p className='mt-1'>A Complete Front-end Of Doctor Clinic Management Website, where Doctor and their Receptionist can access their account and manage the clinic. I have used API's for managing the DataBase as well. Please have a look into the live hosted website by checking the vercel link, if blue icon is blinking while opening the vercel link, then kindly refresh to load it properly.</p>
 
                 <h4 className='mt-5'>Technology Used</h4>
                 <p className='mt-1'>HTML5, CSS3, Bootstrap4, React JS, Redux, API's</p>

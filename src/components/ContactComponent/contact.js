@@ -7,8 +7,8 @@ export default function Contact(){
         <div className='col-12 text-center mt-5'>
         <h1>Contact Me</h1>
         <div className='mt-5 contactFont'>
-        <span>Got a question? We'd love to hear from you, send us a message</span>
-        <p>You will get the response as soon as possible</p>
+        <span>Got a question? I'll love to hear from you, send me a message</span>
+        <p>I will get back to you as soon as possible</p>
         </div>
         </div>
         </div>

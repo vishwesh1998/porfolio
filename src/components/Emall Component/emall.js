@@ -9,7 +9,7 @@ export default function Emall(){
     <div className='row text-center'>
         <div className='col-12'>
             <h4>Summary</h4>
-            <p className='mt-1'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit aperiam quo consequuntur non in, neque dolorem modi molestiae eum est? Blanditiis, voluptatum eum magnam nisi dolorum doloribus, non suscipit nesciunt iste fugit tempore esse. Sapiente repellat tenetur corporis ipsa incidunt maxime accusamus doloribus sit quae. Quis error earum quisqu.</p>
+            <p className='mt-1'>A E-mall Website, where I have created different components for rendering and along with it, I have also used API's for fetching the data</p>
 
             <h4 className='mt-5'>Technology Used</h4>
             <p className='mt-1'>HTML5, CSS3, Bootstrap4, React JS, Redux, API's</p>
