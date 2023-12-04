@@ -42,11 +42,14 @@
 
     .projectBox{
         margin-top: 180px;
+        width: 100%;
         height: auto;
     }
 
     .projectIcon{
         margin-left: 50px;
+        width: 100%;
+        height: auto;
         /* position: relative; */
         /* right: 80px; */
     }
@@ -66,11 +69,18 @@
 
     .projectBox{
         margin-top: 180px;
+        width: 100%;
         height: auto;
     }
 
     .projectIcon{
         margin-left: 130px;
+        width: 100%;
+        height: auto;
+        /* padding-left: 100px; */
+        /* background: white; */
+        /* position: absolute; */
+        /* left: 200px; */
     }
 
     .imgBox img{
