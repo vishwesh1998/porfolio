@@ -82,6 +82,11 @@
         right: 190px;
         width: 100%;
     }
+
+    .tableBox{
+        width: 100%;
+        height: auto;
+    }
 }
 
 @media (min-width:469px) and (max-width:768px) {
@@ -105,13 +110,14 @@
         margin-right: 22px;
     }
 
-    .tableBox b{
-        margin-left: 100px;
-    }
-
     .tableBox table{
         position: absolute;
         right: 140px;
         width: 100%;
+    }
+
+    .tableBox{
+        width: 100%;
+        height: auto;
     }
 }
