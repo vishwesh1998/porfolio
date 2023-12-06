@@ -19,7 +19,7 @@ export default function Cart(){
                 <h4 className='mt-5'>GitHub Link</h4>
                 <p className='mt-1'>https://github.com/vishwesh1998/add_to_cart_website</p>
 
-                <h4 className='mt-5'>Vercel Hosting</h4>
+                <h4 className='mt-5'>Vercel Hosting (Responsive Website)</h4>
                 <p className='mt-1'> https://add-to-cart-website-sable.vercel.app/</p>
             </div>
         </div>

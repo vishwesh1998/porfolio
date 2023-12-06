@@ -17,7 +17,7 @@ export default function Emi(){
             <p className='mt-1'>HTML5, CSS3, Bootstrap4, React JS, Hook's</p>
 
             <h4 className='mt-5'>GitHub Link</h4>
-            <p className='mt-1'>https://github.com/vishwesh1998/EMi_calculator/tree/main/emi_calc</p>
+            <p className='mt-1'>https://github.com/vishwesh1998/emiCal</p>
         </div>
     </div>
     </div>

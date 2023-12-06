@@ -19,13 +19,13 @@
         padding: 0px;
     }
 
-    .uniBox{
+    .calBox{
         margin-top: 240px;
         /* height: 100px; */
         height: auto;
     }
 
-    .uniInnerBox img{
+    .calInnerBox img{
         width: 200px;
         position: relative;
         right: 54px;
@@ -39,13 +39,13 @@
         padding: 0px;
     }
 
-    .uniBox{
+    .calBox{
         margin-top: 240px;
         /* height: 100px; */
         height: auto;
     }
 
-    .uniInnerBox img{
+    .calInnerBox img{
         width: 300px;
         position: relative;
         right: 30px;

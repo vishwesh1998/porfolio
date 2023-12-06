@@ -13,3 +13,43 @@
     font-size: 12px;
 }
 
+
+@media (max-width:468px){
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .emiBox{
+        margin-top: 240px;
+        /* height: 100px; */
+        height: auto;
+    }
+
+    .emiInnerBox img{
+        width: 200px;
+        position: relative;
+        right: 54px;
+        height: auto;
+    }
+}
+
+@media (min-width:469px) and (max-width:768px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .emiBox{
+        margin-top: 240px;
+        /* height: 100px; */
+        height: auto;
+    }
+
+    .emiInnerBox img{
+        width: 300px;
+        position: relative;
+        right: 30px;
+        height: auto;
+    }
+}

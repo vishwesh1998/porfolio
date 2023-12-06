@@ -17,7 +17,8 @@ export default function Pass(){
             <p className='mt-1'>HTML5, CSS3, Bootstrap4, React JS, Hook's</p>
 
             <h4 className='mt-5'>GitHub Link</h4>
-            <p className='mt-1'>https://github.com/vishwesh1998/password_generator/tree/main/password</p>
+            <p className='mt-1'>https://github.com/vishwesh1998/password_generator/
+            tree/main/password</p>
         </div>
     </div>
     </div>

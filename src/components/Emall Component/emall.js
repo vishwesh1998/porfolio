@@ -17,7 +17,7 @@ export default function Emall(){
             <h4 className='mt-5'>GitHub Link</h4>
             <p className='mt-1'> https://github.com/vishwesh1998/shopping_cart</p>
 
-            <h4 className='mt-5'>Vercel Hosting</h4>
+            <h4 className='mt-5'>Vercel Hosting (Recomended to check on PC/laptop because it is not responsive)</h4>
             <p className='mt-1'>https://shopping-cart-three-snowy.vercel.app/</p>
         </div>
     </div>
