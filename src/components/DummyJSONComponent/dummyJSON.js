@@ -17,7 +17,8 @@ export default function DummyJSON(){
             <p className='mt-1'>HTML5, CSS3, Bootstrap4, React JS, Axios, Dummy JSON Data Calling</p>
 
             <h4 className='mt-5'>GitHub Link</h4>
-            <p className='mt-1'>https://github.com/vishwesh1998/JSON_data_fetching</p>
+            <p className='mt-1'>https://github.com/vishwesh1998/
+            JSON_data_fetching</p>
         </div>
     </div>
     </div>
