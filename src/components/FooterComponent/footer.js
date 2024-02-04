@@ -32,7 +32,7 @@ export default function Footer(){
             <div className="col-lg-4 text-center mt-1 quickLink2">
                 <h5><b>Address</b></h5>
                 <br/>
-                <p>📌 Vijay Nagar, Indore, MP 452001</p>
+                <p>📌 Indore, India</p>
                 <p>🗨 +91 8707417093</p>
                 <p>📩 vishweshgupta30890@gmail.com</p>
             </div>

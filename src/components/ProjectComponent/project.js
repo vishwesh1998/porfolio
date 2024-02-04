@@ -4,14 +4,17 @@ import './project.css'
 export default function Project(){
 
     let projectData = [
-        {img : 'img/clinic2.png', name : 'Shubh Clinic Website', msg : 'Click For More Details', path : '/shubhClinic'},
+        {img : 'img/ap.webp', name : 'MERN Stack Website (Admin Panel)', msg : 'Click For More Details', path : '/mernStack'},
         {img : 'img/shopping.png', name : 'Shopping Cart Demo Website', msg : 'Click For More Details', path : '/shoppingCart'},
-        {img : 'img/e-mall.jpg', name : 'E-mall website', msg : 'Click For More Details', path : '/emall'},
+        {img : 'img/kanbonBoard.png', name : 'Kanbon Board', msg : 'Click For More Details', path : '/KanbonBoard'},
+        {img : 'img/portfolio1.png', name : 'My Portfolio Website', msg : 'Click For More Details', path : '/myPortfolio'},
         {img : 'img/creditCard2.png', name : 'Virtual Credit Card Editor', msg : 'Click For More Details', path : '/creditCard'},
         {img : 'img/game1.png', name : 'Team Selecting Game', msg : 'Click For More Details', path : '/dream11'},
+        {img : 'img/cal2.png', name : 'Basic Calculator', msg : 'Click For More Details', path : '/cal'},
+        {img : 'img/clinic2.png', name : 'Shubh Clinic Website', msg : 'Click For More Details', path : '/shubhClinic'},
+        {img : 'img/e-mall.jpg', name : 'E-mall website', msg : 'Click For More Details', path : '/emall'},
         {img : 'img/JSONdata.png', name : 'Dummy JSON User"s Records', msg : 'Click For More Details', path : '/dummyJSON'},
         {img : 'img/pass1.png', name : 'Random Password Generator', msg : 'Click For More Details', path : '/passGen'},
-        {img : 'img/cal2.png', name : 'Basic Calculator', msg : 'Click For More Details', path : '/cal'},
         {img : 'img/emi.png', name : 'EMI Calculator', msg : 'Click For More Details', path : '/emiCal'}
     ]
         // 3) E-mall website with fetching the Dummy JSON data.
@@ -32,7 +35,7 @@ export default function Project(){
     return <div className="container-fluid projectBox">
         <div className='row'>
         <div className='col-12 text-center mt-5'>
-        <h1>Project Details</h1>
+        <h1>Project's List</h1>
         </div>
         <div className='container projectIcon'>
             <div className='row text-center a'>

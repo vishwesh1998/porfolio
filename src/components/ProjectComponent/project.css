@@ -1,5 +1,5 @@
 .projectBox{
-    height: 1100px;
+    height: 100%;
 }
 
 .imgBox{
@@ -43,7 +43,7 @@
     .projectBox{
         margin-top: 180px;
         width: 100%;
-        height: auto;
+        height: 100%;
     }
 
     .projectIcon{

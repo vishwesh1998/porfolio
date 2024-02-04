@@ -17,6 +17,9 @@ import Emi from './components/EmiCalculator/emi'
 import Contact from './components/ContactComponent/contact'
 import Universal from './components/UniversalComponent/universal'
 import CodeBetter from './components/CodeBetterComponent/codeBetter'
+import AdminPanel from './components/AdminPanelComponent/adminPanel'
+import KanbonBoard from './components/KanbonBoardComponent/kanbon'
+import Portfolio from './components/PortfolioComponent/portfolio'
 
 export default function App() {
     return <>
@@ -43,6 +46,9 @@ export default function App() {
                 <Route path='/contactUs' element={<Contact/>}/>
                 <Route path='/universalCertificate' element={<Universal/>}/>
                 <Route path='/codeBetterCertificate' element={<CodeBetter/>}/>
+                <Route path='/mernStack' element={<AdminPanel/>}/>
+                <Route path='/kanbonBoard' element={<KanbonBoard/>}/>
+                <Route path='/myPortfolio' element={<Portfolio/>}/>
             </Routes>
             {/* <br/>
             <br/>

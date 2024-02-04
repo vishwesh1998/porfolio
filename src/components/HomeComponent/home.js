@@ -7,9 +7,9 @@ export default function Home(){
     return <div className='container-fluid homeBox'>
         <div className='row d-flex align-items-center'>
         <div className='col-lg-6 text-center'>
-            <h1>Hi, My name is Vishwesh</h1>
+            <h1>Hi, My name is Vishwesh Gupta</h1>
             <h1>and I am a passionate</h1>
-            <h1>Web Developer.</h1>
+            <h1>MERN Stack Developer.</h1>
             <br/>
             <button className='btn' onClick={()=>window.open('https://www.linkedin.com/in/vishwesh-gupta-6918221b9')}>Visit LikedIn</button> &nbsp; &nbsp; 
             <button className='btn' onClick={()=>window.open('https://github.com/vishwesh1998')}>Visit Github</button>
