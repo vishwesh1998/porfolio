@@ -17,10 +17,10 @@ export default function Cart(){
                 <p className='mt-1'>HTML5, CSS3, Bootstrap4, React JS, Redux, API's</p>
 
                 <h4 className='mt-5'>GitHub Link</h4>
-                <p className='mt-1'>https://github.com/vishwesh1998/add_to_cart_website</p>
+                <p className='mt-1'>https://github.com/vishwesh1998/redux-app</p>
 
                 <h4 className='mt-5'>Vercel Hosting (Responsive Website)</h4>
-                <p className='mt-1'> https://add-to-cart-website-sable.vercel.app/</p>
+                <p className='mt-1'> https://redux-app-blush.vercel.app/</p>
             </div>
         </div>
         </div>
